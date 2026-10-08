@@ -38,16 +38,16 @@ An interactive 6-page Power BI dashboard analysing a 1,000-record employee datas
 - **Interactivity:** Year, Department and Office slicers, a page navigator, a Reset button and drill-down (including a drill-through to Employee Detail)
 
 ## Screenshots
-![Executive](screenshots/01_executive.png)
-![Workforce](screenshots/02_workforce.png)
-![Ratings](screenshots/03_ratings.png)
-![Attrition](screenshots/04_attrition.png)
-![Pay](screenshots/05_pay.png)
-![Employee Detail](screenshots/06_employee_detail.png)
+![Executive](01_executive.png)
+![Workforce](02_workforce.png)
+![Ratings](03_ratings.png)
+![Attrition](04_attrition.png)
+![Pay](05_pay.png)
+![Employee Detail](06_employee_detail.png)
 
 ## Files
 - `TalentCore_Workforce_Analytics_Complete.pbix` — the Power BI report (open in Power BI Desktop)
-- `screenshots/` — one image per dashboard page
+- `01_executive.png` to `06_employee_detail.png` — one image per dashboard page
 
 ## Contact
 mohamed.m.ahmed946@gmail.com
